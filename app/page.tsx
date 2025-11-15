@@ -129,6 +129,7 @@ export default function Home() {
   images={images}
   autoPlay={true}
   showNavs={true}
+  showBullets={false}
 
 
   />
